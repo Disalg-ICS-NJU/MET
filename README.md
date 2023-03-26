@@ -24,4 +24,5 @@ Through rounds of conformance checking, the test specification is sufficiently a
 
 - ZooKeeper: <https://github.com/Lingzhi-Ouyang/MET>
 - CRDT-Redis: <https://github.com/elem-azar-unis/CRDT-Redis/tree/master/MET>
-- PySyncObj and Redis Raft: <https://github.com/tangruize/TMET>
+- PySyncObj: <https://github.com/tangruize/TMET/tree/pysyncobj>
+- Redis Raft: <https://github.com/tangruize/TMET/tree/redisraft>
