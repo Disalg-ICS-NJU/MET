@@ -1,0 +1,14 @@
+[submodule "projects/ZooKeeper"]
+	path = projects/ZooKeeper
+	url = https://github.com/Lingzhi-Ouyang/MET
+[submodule "projects/CRDT-Redis"]
+	path = projects/CRDT-Redis
+	url = https://github.com/elem-azar-unis/CRDT-Redis
+[submodule "projects/PySyncObj"]
+	path = projects/PySyncObj
+	url = https://github.com/tangruize/TMET
+	branch = pysyncobj
+[submodule "projects/RedisRaft"]
+	path = projects/RedisRaft
+	url = https://github.com/tangruize/TMET
+	branch = redisraft
