@@ -4,11 +4,6 @@
 [submodule "projects/CRDT-Redis"]
 	path = projects/CRDT-Redis
 	url = https://github.com/elem-azar-unis/CRDT-Redis
-[submodule "projects/PySyncObj"]
-	path = projects/PySyncObj
+[submodule "tmet-projects"]
+	path = projects/TMET
 	url = https://github.com/tangruize/TMET
-	branch = pysyncobj
-[submodule "projects/RedisRaft"]
-	path = projects/RedisRaft
-	url = https://github.com/tangruize/TMET
-	branch = redisraft
